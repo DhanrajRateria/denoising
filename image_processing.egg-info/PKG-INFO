@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: image-processing
+Version: 0.1.0
+Summary: Image processing project for denoising and sharpening techniques
+Home-page: UNKNOWN
+Author: Dhanraj Rateria
+Author-email: dhanrajrateria@gmail.com
+License: UNKNOWN
+Keywords: image processing,denoising,sharpening,computer vision
+Platform: UNKNOWN
+Requires-Python: >=3.8
+
+UNKNOWN
+
